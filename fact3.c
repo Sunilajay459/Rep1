@@ -15,6 +15,6 @@ int main() {
         factorial *= i;
     }    
     printf("Factorial of %d is %d\n", number, factorial);
-    
+    printf("KITS WARANGAL\n");
     return 0;
 }
